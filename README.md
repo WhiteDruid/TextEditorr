@@ -1,1 +1,3 @@
 # TextEditorr
+
+its not finished / 
